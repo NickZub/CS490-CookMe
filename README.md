@@ -92,3 +92,6 @@ Clicking the Cookbook will bring to screen that has all of the saved Recipe Card
 Clicking this will bring down sub categories(Specified for specific foods), in which clicking will change the Recipe Cards to fit that niche.
 #### Miscellaneous
 Each Page will have tab icon, giving the user the chance to go back to specific points in app; i.e. Home, Categories, etc.
+
+#### Note
+Some files containing sensitive data were removed, namely: GenerateRecipes.js, SwipeCard.js, and HomeScreen.js.
